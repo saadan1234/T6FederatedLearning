@@ -1,0 +1,4 @@
+pandas
+sklearn
+torch
+hydra-core
